@@ -1,0 +1,11 @@
+{
+  "rows": 355307,
+  "columns": 55,
+  "unique_listings": 43831,
+  "snapshots": 10,
+  "first_snapshot": "2025-08",
+  "last_snapshot": "2026-06",
+  "duplicate_listing_snapshot_pairs": 0,
+  "builder": "chunked streaming CSV",
+  "chunk_size": 25000
+}

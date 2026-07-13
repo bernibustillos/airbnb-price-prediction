@@ -1,0 +1,10 @@
+{
+  "rows": 355307,
+  "columns": 56,
+  "unique_listings": 43831,
+  "snapshots": 10,
+  "duplicate_rows": 0,
+  "duplicate_listing_snapshot_pairs": 0,
+  "missing_price": 206501,
+  "nonpositive_price": 0
+}

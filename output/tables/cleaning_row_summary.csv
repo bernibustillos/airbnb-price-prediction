@@ -1,0 +1,6 @@
+rule,rows_removed,rows_remaining
+Duplicate listing-snapshot rows,0,355307
+Missing or non-positive price,206501,148806
+Price above the 99.5th percentile,741,148065
+Invalid accommodates value,0,148065
+Coordinates outside NYC plausibility bounds,0,148065

@@ -1,0 +1,7 @@
+{
+  "alpha_selected_by_cv": 0.0001,
+  "nonzero_encoded_features": 52,
+  "nonzero_base_features": 42,
+  "target": "log1p(price_numeric)",
+  "final_report_ranking": "normalized feature-family importance"
+}

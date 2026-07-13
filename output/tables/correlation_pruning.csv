@@ -1,0 +1,5 @@
+dropped_feature,correlated_with,absolute_correlation
+availability_90,availability_60,0.9607243150284894
+host_total_listings_count,host_listings_count,0.9815955816815736
+reviews_per_active_year,reviews_per_month,0.9953294635151622
+availability_ratio,availability_365,0.9999999999999926
