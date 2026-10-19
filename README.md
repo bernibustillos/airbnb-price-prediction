@@ -2,7 +2,7 @@
 
 Predicting and explaining nightly prices for **new** NYC Airbnb listings — ones with no booking history — from property, host and location features alone.
 
-**Team:** Amit Kumar, Bernardo Bustillos, Shuvechchha Kunwar · Georgia Tech machine learning team project, Summer 2026
+**Team:** Bernardo Bustillos, Amit Kumar, Shuvechchha Kunwar · Georgia Tech machine learning team project, Summer 2026
 *Forked from [kumaramit003/airbnb-price-prediction](https://github.com/kumaramit003/airbnb-price-prediction).*
 
 ## Results
